@@ -1,0 +1,23 @@
+{
+  "name": "famousjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GausAlMunirTushar/famousjs.git"
+  },
+  "keywords": [
+    "famousjs",
+    "famous"
+  ],
+  "author": "Gaus Al Munir Tushar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GausAlMunirTushar/famousjs/issues"
+  },
+  "homepage": "https://github.com/GausAlMunirTushar/famousjs#readme"
+}
